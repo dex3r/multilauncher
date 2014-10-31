@@ -1,0 +1,3 @@
+[submodule "dextools"]
+	path = dextools
+	url = https://github.com/dex3r/dextools
