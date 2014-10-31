@@ -81,6 +81,12 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\dextools\vs\DexTools\DexTools.csproj">
+      <Project>{4b09bf9a-8483-4140-880e-0c0fe1b065bb}</Project>
+      <Name>DexTools</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
