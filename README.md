@@ -1,4 +1,4 @@
 MultiLauncher
 =============
 
-Launcher that can run your program you want and provides automatic updates system
+Launcher that can run your program, can provide automatic updates system and much more!
